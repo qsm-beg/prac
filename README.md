@@ -20,5 +20,3 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Front-end journey from Sololearn
 
 Learning front-end, html, css and js from the www.sololearn.com website
-
-s
